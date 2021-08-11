@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+// 2021-08-09
+// 컴파일 경고 해결법 p.556
+
 //int main(void)
 //{
 //	int num;
